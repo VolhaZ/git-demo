@@ -2,8 +2,12 @@ My Name is Olga
 emulate someone's changes
 check gui interface
 
+<<<<<<< HEAD
 
 hello
 jjj
 
 3rd couplet
+=======
+index
+>>>>>>> 28f4280868ce04c554cd0b4c2922a6edee06a413
